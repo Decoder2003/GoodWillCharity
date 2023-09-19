@@ -18,13 +18,13 @@ The need of the hour is to leverage Web3.0 technologies, specifically blockchain
  - **Ganache**
 	* Ganache provides the GUI-based local Ethereum blockchain development environment to deploy and test contracts.
 
+### Video
+
+<div align="center"> <a href="https://tinyurl.com/Innovators-charity"></a> <br> <a href="https://tinyurl.com/Innovators-charity">Demonstration Video</a></div>
+
 ### Project Working
 * A metamask connection is required to run the application for any transaction.
 * A ganache RPC Server is run with metamask as the wallet, using the node.js interface.
 * Charity and organisation details are saved in the application, and a hash value is generated
 * A transaction is carried out, between organisation and charity and transaction hash is generated for each transaction
 * A block is created, when the user mines all the transactions updates.
-
-### Video
-
-<div align="center"> <a href="https://tinyurl.com/Innovators-charity"></a> <br> <a href="https://tinyurl.com/Innovators-charity">Demonstration Video</a></div>
