@@ -1,9 +1,12 @@
-# Charity Blockchain Project
+# Good Will Charity
 
 ### Problem Statement
-- There are no platforms that can be used by charities to ensure security while providing accessibility to maximum people.
-- The biggest problem faced is transparency, where people can rightly exercise their Right To Information by asking for a record of expenditure by the charity
-- Even if such applications are available, they are inaccessible to smaller organisations with a good user interface for ease of access.
+“Transparency and Genuine Charity System”
+The traditional charitable donation system lacks transparency and accountability, resulting in a lack of trust and inhibiting widespread contributions to meaningful causes. Donors often face challenges in precisely tracking their donations, ensuring efficient fund allocation, and verifying the actual impact of their contributions. Charitable organizations struggle to prove their legitimacy and showcase their projects' true impact to donors, leading to a lack of trust.
+
+Moreover, the existing approval and evaluation processes for charitable projects are often centralized and lack community involvement. This centralization limits the inclusivity and diverse perspectives required for effective decision-making. Additionally, the absence of a standardized, decentralized, and technologically advanced platform inhibits the seamless interaction between donors and charitable organizations.
+
+The need of the hour is to leverage Web3.0 technologies, specifically blockchain and smart contracts, to create a "Transparency and Genuine Charity System" like "Good-will-charity". This initiative aims to address the aforementioned issues by offering a transparent, accountable, and decentralized platform that facilitates efficient donation tracking, precise fund disbursement, and real-time impact showcasing. It strives to instill trust and encourage broader participation in charitable activities for the betterment of society.
 
 ### Requirements of the Project
  - **Solidity Web3**
@@ -22,25 +25,6 @@
 * A transaction is carried out, between organisation and charity and transaction hash is generated for each transaction
 * A block is created, when the user mines all the transactions updates.
 
+### Video
 
-### YouTube Video
-
-<div align="center"> <a href="https://youtu.be/4CIUYSnVEIo"><img src="http://img.youtube.com/vi/4CIUYSnVEIo/0.jpg" width="30%"></a> <br> <a href="https://youtu.be/4CIUYSnVEIo">Demonstration Video</a></div>
-<br><br>
-
-
-### License
-
-	Copyright (C) 2020 Harsh Sanjay Agrawal
-
-	Licensed under the Apache License, Version 2.0 (the "License");
-	you may not use this file except in compliance with the License.
-	You may obtain a copy of the License at
-
-	   http://www.apache.org/licenses/LICENSE-2.0
-
-	Unless required by applicable law or agreed to in writing, software
-	distributed under the License is distributed on an "AS IS" BASIS,
-	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-	See the License for the specific language governing permissions and
-	limitations under the License.
+<div align="center"> <a href="https://tinyurl.com/Innovators-charity"></a> <br> <a href="https://tinyurl.com/Innovators-charity">Demonstration Video</a></div>
