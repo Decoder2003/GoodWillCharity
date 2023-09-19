@@ -1,0 +1,30 @@
+{
+  "name": "charity",
+  "version": "1.0.0",
+  "description": "Blockchain charity Powered By Ethereum",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && sexit 1"
+  },
+  "author": "raoanandteertha@gmail.com",
+  "devDependencies": {
+    "bootstrap": "4.3.1",
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "lite-server": "2.3",
+    "nodemon": "^3.0.1",
+    "truffle": "^5.11.5",
+    "truffle-contract": "^4.0.2"
+  },
+  "dependencies": {
+    "latest-version": "^7.0.0",
+    "package-json": "^8.1.1",
+    "package-lock": "^1.0.5",
+    "web3": "^1.2.9"
+  }
+}
